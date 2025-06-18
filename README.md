@@ -6,11 +6,6 @@ A full-stack web application that allows users to book appointments with doctors
 
 [🔗 Visit the App] :- https://doctrot-appoiment-web-x788.vercel.app/
 
-## 📸 Screenshots
-
-| Home Page | Book Appointment | Admin Dashboard |
-|-----------|------------------|------------------|
-| ![Home](https://your-image-link.com/home.png) | ![Booking](https://your-image-link.com/booking.png) | ![Admin](https://your-image-link.com/admin.png) |
 
 ## 🚀 Features
 
@@ -48,9 +43,4 @@ A full-stack web application that allows users to book appointments with doctors
 **Authentication:**
 - JWT (JSON Web Tokens)
 
-**Other:**
-- Cloudinary (for doctor images)
-- Toastify / Alerts
-
-## 🗂 Folder Structure
 
